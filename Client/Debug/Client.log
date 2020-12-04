@@ -1,0 +1,47 @@
+﻿  Client.cpp
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(421,27): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "min"
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(421,27): error C2059: синтаксическая ошибка: (
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(421,27): error C2143: синтаксическая ошибка: отсутствие "," перед "?"
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(421,27): error C2535: date::year::year(void): функция-член уже определена или объявлена
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(402): message : см. объявление "date::year::year"
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(421,27): error C2059: синтаксическая ошибка: ?
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(421,27): error C2059: синтаксическая ошибка: noexcept
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(421,27): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(422,27): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "max"
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(422,27): error C2059: синтаксическая ошибка: (
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(422,27): error C2143: синтаксическая ошибка: отсутствие "," перед "?"
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(422,27): error C2535: date::year::year(void): функция-член уже определена или объявлена
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(402): message : см. объявление "date::year::year"
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(422,27): error C2059: синтаксическая ошибка: ?
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(422,27): error C2059: синтаксическая ошибка: noexcept
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(422,27): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(1170,74): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "max"
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(1170,74): error C2589: (: недопустимая лексема справа от "::"
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(1191): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "date::detail::no_overflow<R1,R2>"
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(1170,74): error C2059: синтаксическая ошибка: (
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(1634,46): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "min"
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(1634,46): error C2589: (: недопустимая лексема справа от "::"
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(1634,46): error C2062: тип "unknown-type" не требуется
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(1634,46): error C2059: синтаксическая ошибка: )
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(1632,7): error C3615: результатом функции constexpr "date::year::ok" не может являться константное выражение
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(1635): message : сбой был вызван тем, что процесс достиг конца функции constexpr
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(6112,62): error C2589: (: недопустимая лексема справа от "::"
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(6112,62): error C2760: синтаксическая ошибка: непредвиденный токен "("; требуется ")"
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(6333,59): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "min"
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(6338,57): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "min"
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(6341,53): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "min"
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(6346,51): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "min"
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(7451,44): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "min"
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(7451,81): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "max"
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(6333,59): error C2589: (: недопустимая лексема справа от "::"
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\date.h(6333,59): message : Сообщение диагностики возникло в созданной компилятором функции "std::basic_istream<_Elem,_Traits> &date::from_stream(std::basic_istream<_Elem,_Traits> &,const CharT *,date::fields<Duration> &,std::basic_string<CharT,Traits,Alloc> *,std::chrono::minutes *)"
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\ptz.h(358,34): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "min"
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\ptz.h(359,34): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "max"
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\ptz.h(358,34): error C2589: (: недопустимая лексема справа от "::"
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\ptz.h(358,34): message : Сообщение диагностики возникло в созданной компилятором функции "date::sys_info Posix::time_zone::get_info(std::chrono::time_point<std::chrono::system_clock,Duration>) const"
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\ptz.h(448,40): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "min"
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\ptz.h(449,40): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "max"
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\ptz.h(448,40): error C2589: (: недопустимая лексема справа от "::"
+C:\Users\mrsli\source\repos\Server\Server\date-master\include\date\ptz.h(448,40): message : Сообщение диагностики возникло в созданной компилятором функции "date::local_info Posix::time_zone::get_info(std::chrono::time_point<date::local_t,Duration>) const"
+C:\Users\mrsli\source\repos\Server\Server\Functions\Func.h(13,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mrsli\source\repos\Server\Server\Functions\Func.h(24,18): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных

@@ -1,0 +1,5 @@
+﻿  Client.cpp
+C:\Users\mrsli\source\repos\Server\Server\Functions\Func.h(23,18): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\mrsli\source\repos\Server\Server\Client\Client.cpp(33,15): warning C4101: adfsize: неиспользованная локальная переменная
+C:\Users\mrsli\source\repos\Server\Server\Functions\Func.h(16): warning C4715: Find_Split: значение возвращается не при всех путях выполнения
+  Client.vcxproj -> C:\Users\mrsli\source\repos\Server\Server\x64\Debug\Client.exe
